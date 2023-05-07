@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4faef471.css",
-    "main.js": "/static/js/main.0e28738d.js",
+    "main.js": "/static/js/main.009ea939.js",
     "static/media/room2.jpg": "/static/media/room2.f5e28491832f0bf6fa23.jpg",
     "static/media/pankaj-patel-_SgRNwAVNKw-unsplash.jpg": "/static/media/pankaj-patel-_SgRNwAVNKw-unsplash.9d7789c39f2a8a7f878c.jpg",
     "static/media/room1.jpg": "/static/media/room1.d0683dad8c2c48281cc1.jpg",
@@ -22,10 +22,10 @@
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.4faef471.css.map": "/static/css/main.4faef471.css.map",
-    "main.0e28738d.js.map": "/static/js/main.0e28738d.js.map"
+    "main.009ea939.js.map": "/static/js/main.009ea939.js.map"
   },
   "entrypoints": [
     "static/css/main.4faef471.css",
-    "static/js/main.0e28738d.js"
+    "static/js/main.009ea939.js"
   ]
 }
